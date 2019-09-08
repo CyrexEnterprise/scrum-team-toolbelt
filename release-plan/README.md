@@ -1,6 +1,6 @@
 # The release plan
 
-Uhm...
+Stay tuned!
 
 ## Example document
 

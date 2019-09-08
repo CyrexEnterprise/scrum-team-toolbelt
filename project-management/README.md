@@ -1,6 +1,6 @@
 # Project management
 
-Uhm...
+Stay tuned!
 
 ## List of tools
 

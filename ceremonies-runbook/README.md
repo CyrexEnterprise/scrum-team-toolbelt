@@ -1,6 +1,6 @@
 # The ceremonies runbook
 
-Uhm...
+Stay tuned!
 
 ## Example document
 

@@ -1,6 +1,6 @@
 # The wireframes
 
-Uhm...
+Stay tuned!
 
 ## Example document
 

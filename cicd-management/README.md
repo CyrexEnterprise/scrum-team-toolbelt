@@ -1,6 +1,6 @@
 # CI/CD Management
 
-Uhm...
+Stay tuned!
 
 ## List of tools
 

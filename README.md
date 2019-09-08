@@ -1,6 +1,6 @@
-# A toolbelt in the life of a PO
+# A toolbelt in the life of a Scrum Team
 
-Document examples for the article called "A day in the life of a Product Owner".
+Document examples for the blog series called "A day in the life of a Scrum Team".
 
 The fictional project name for the examples is **Project Utop.ia**, reflecting the imperfection of real life product management versus this series.
 
@@ -17,7 +17,7 @@ The fictional project name for the examples is **Project Utop.ia**, reflecting t
 1. [The wireframes](/wireframnes/README.md)
 1. [CI/CD management](/cicd-management/README.md)
 
-## Product stakeholders
+### Product stakeholders
 
  Stakeholders | | |
 :-------------------|:-----------|:----
@@ -26,17 +26,25 @@ The fictional project name for the examples is **Project Utop.ia**, reflecting t
  Architect          | enterprise | A creature who used to be tech lead, until he got a raise. Feel free to make jokes about that history. Important ally.
  Release Engineer   | enterprise | A special kind of architect, typically with DevOps (see below) background. This profile helps tempering your natural urge to hastily release exciting features, just as he/she is your ally in moderating hotfixes requested by business.
  DevOps             | enterprise | Unfairly depicted as dungeon creatures -they live in the cloud these days- your DevOps is most likely one of the most professional project stakeholders you'll meet.
+ Support            | enterprise | The product support representative yields your cryptonite, handle with care. Also great allies if you need to highlight a new feature to the sponsor. Find a balance in your technical team for assisting the support staff. A cycling support maintenance curfew per sprint works great.
  PO                 | you        | Product Owner. Sometimes feels as master of ceremony.
  Scrum Master       | squad      | The whip of your team. The Scrum Master is not easily fooled and understands the emotional fluctuations of your team. Many PO's have a scrum mastering history, so you probably understand this position well.
  Tech Lead          | squad      | The most communicative of your senior engineers. Has to be willing to sacrifice a part of his time to project and people management next to the Scrum Master.
- Developer          | squad      | If you are lucky, a wall balanced group of juniors to seniors, each playing their vital part in actually getting things done.
+ Developer          | squad      | If you are lucky, a well balanced group of juniors to seniors, each playing their vital part in actually getting things done.
  Functional Analyst | squad      | Former engineer or designer with a weak spot for insights. In case of enterprise structures, delegate trust and responsibilities on intra-company communications and meetings.
  Storyteller        | squad      | The author of the user stories and journeys. Thus also the key unlocking your product vision to everybody else. Of epic importance.
  Designer           | squad      | Simplification of the various creative profiles, from product and graphic designers to UX specialists. Great bunch. Their ultimate weapon is the real-life user report.
  Tester             | squad      | The tester gets empowered most by a wintered PO. By automated end-to-end test journeys, CC Monitoring, spotlighting during sprint reviews and giving them a seat at the CI/CD cycle approval board.
 
+### Articles & resources
+
+* Scrum teams - [scrumguides.org](https://www.scrumguides.org/scrum-guide.html)
+* infographic - [A Day in the Life of a Product Owner](https://3back.com/infographic/a-day-in-the-life-of-a-product-owner/)
+* Quora - [A good answer on a PO's day](https://www.quora.com/What-is-a-normal-day-of-a-Product-Owner-SCRUM/answer/Kunal-Gupta-6)
+
+
 ## Contributing
 
-Improvements and elaborations are tracked on [GitHub](issues). Please read our [contribution guidelines](CONTRIBUTING.md) before opening a new improvement request or submitting a reference.
+Improvements and elaborations are tracked on [GitHub](https://github.com/Cloudoki/scrum-team-toolbelt/issues). Please read our [contribution guidelines](CONTRIBUTING.md) before opening a new improvement request or submitting a reference.
 
 Special thanks to everybody from the [Cloudoki](https://cloudoki.com) family.

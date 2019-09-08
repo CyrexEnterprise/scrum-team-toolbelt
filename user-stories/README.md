@@ -1,6 +1,6 @@
 # The user stories
 
-Uhm...
+Stay tuned!
 
 ## List of tools
 

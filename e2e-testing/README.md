@@ -1,6 +1,6 @@
 # Automated end-to-end testing
 
-Uhm...
+Stay tuned!
 
 ## List of tools
 
