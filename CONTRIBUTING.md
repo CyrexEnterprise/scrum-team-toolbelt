@@ -15,18 +15,19 @@ I would like to invite each member of a product team to document their own journ
 
 Roles | |
 :-------------------|:----
-Sponsor            |  
-TSM                |
-Architect          |
-Release Engineer   |
-DevOps             |
-PO                 | Koen Betsens - [A day in the life of a PO](https://blog.cloudoki.com/a-day-in-the-life-of-a-po-day-one)
-Scrum Master       |
-Tech Lead          |
-Developer          |
-Functional Analyst |
-Storyteller        |
-Designer           |
-Tester             |
+ Sponsor            |  
+ TSM                |
+ Architect          |
+ Release Engineer   |
+ DevOps             |
+ Support            |
+ PO                 | Koen Betsens - [A day in the life of a PO](https://blog.cloudoki.com/a-day-in-the-life-of-a-po-day-one)
+ Scrum Master       |
+ Tech Lead          |
+ Developer          |
+ Functional Analyst |
+ Storyteller        |
+ Designer           |
+ Tester             |
 
-If you can, please maintain his reference in your personal repository as well.
+If you can, please maintain this reference list in your personal repository as well.

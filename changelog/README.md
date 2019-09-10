@@ -8,13 +8,25 @@ Lastly, your changelog will be cloned into the perpetual next sprint, because so
 
 Albeit considered a technical document, the changelog is best conserved if it has received some attention for readibilty. In rare moment you might find yourself digging for an old copy.
 
-## Example document
+> A good change log sticks to these principles:
+> * It’s made for humans, not machines, so legibility is crucial.
+> * Easy to link to any section (hence Markdown over plain text).
+> * One sub-section per version.
+> * List releases in reverse-chronological order (newest on top).
+> * Write all dates in YYYY-MM-DD format. (Example: 2012-06-02 for June 2nd, 2012.) It’s international, sensible, and language-independent.
+> * Explicitly mention whether the project follows Semantic Versioning.
+> * Each version should Group changes to describe their impact on the project
+>
+> _source: keepachangelog.com_
 
-Uhm...
+## Example documents
+
+This example document is maintained by @olivierlacan.
+* keepachangelog.com [CHANGELOG](https://github.com/olivierlacan/keep-a-changelog/blob/master/CHANGELOG.md)
 
 ## Articles & Resources
 
-* Uhm...
+* [Keep a CHANGELOG](https://keepachangelog.com/en/0.3.0/)
 
 #### Improvements welcome
 
