@@ -6,7 +6,7 @@ every sprint end Friday
 
 ## Stake-holders
 
-All
+**All**
 
 ## Series occurence
 

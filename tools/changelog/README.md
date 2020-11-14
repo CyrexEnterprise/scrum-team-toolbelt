@@ -24,11 +24,21 @@ Albeit considered a technical document, the changelog is best conserved if it ha
 This example document is maintained by @olivierlacan.
 * keepachangelog.com [CHANGELOG](https://github.com/olivierlacan/keep-a-changelog/blob/master/CHANGELOG.md)
 
+## Maintainers
+
+Role | entry
+:---|:---
+Scrum Master | https://github.com/Cloudoki/scrum-team-toolbelt/tree/master/roles/scrum-master.md
+Release Engineer | https://github.com/Cloudoki/scrum-team-toolbelt/tree/master/roles/release-engineer.md
+Testing Engineer | https://github.com/Cloudoki/scrum-team-toolbelt/tree/master/roles/tester.md
+Tribe Scrum Master (read-only) | https://github.com/Cloudoki/scrum-team-toolbelt/tree/master/roles/tribe-scrum-master.md
+
 ## Articles & Resources
 
 * [Keep a CHANGELOG](https://keepachangelog.com/en/0.3.0/)
 
-#### Improvements welcome
+---
+## Improvements welcome
 
 This reference is open for improvements. Help us build a better story.
 Read how to contribute [here](/CONTRIBUTING.md).

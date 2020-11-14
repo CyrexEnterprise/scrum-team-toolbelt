@@ -18,11 +18,19 @@ An average roadmap can span up to 12 months without being the exception. Keep im
 
 * [The Utop.ia technical roadmap in Google Sheets](utopia-roadmap-example.pdf)
 
+## Maintainers
+
+Role | entry
+:---|:---
+Product Owner | https://github.com/Cloudoki/scrum-team-toolbelt/tree/master/roles/product-owner.md
+Sponsor| https://github.com/Cloudoki/scrum-team-toolbelt/tree/master/roles/sponsor.md
+
 ## Articles & Resources
 
 Roadmap tooling reviews welcome.
 
-#### Improvements welcome
+---
+## Improvements welcome
 
 This reference is open for improvements. Help us build a better story.
 Read how to contribute [here](/CONTRIBUTING.md).

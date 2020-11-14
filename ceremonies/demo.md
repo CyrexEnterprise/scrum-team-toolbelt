@@ -6,7 +6,7 @@ Every sprint end
 
 ## Stake-holders
 
-All
+**All**
 
 ## Series occurence
 
