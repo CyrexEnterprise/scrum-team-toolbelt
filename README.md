@@ -30,7 +30,7 @@ Tester |  Test | Specialist engineer guarding acceptable product quality | [git]
 Functional Analyst | Analyst |  Maintaining the flow and service dependencies of the product | [git](https://github.com/Cloudoki/scrum-team-toolbelt/tree/master/roles/functional-analyst.md)
 Story-teller | Story |  Writer of the user stories and feature acceptance criteria | [git](https://github.com/Cloudoki/scrum-team-toolbelt/tree/master/roles/story-teller.md)
 Product Designer | UX |  Measuring the user needs and translating them into good experiences ("UX") | [git](https://github.com/Cloudoki/scrum-team-toolbelt/tree/master/roles/product-designer.md)
-[Product Owner](/a-day-in-the-life-of-a-po-day-one/) |  PO | Story-teller and serving leader | [Day 1](/a-day-in-the-life-of-a-po-day-one/), [Day 2](/a-day-in-the-life-of-a-po-day-two/), [Day 3](/a-day-in-the-life-of-a-po-day-three/) and [git](https://github.com/Cloudoki/scrum-team-toolbelt/tree/master/roles/product-owner.md)
+[Product Owner](https://blog.cloudoki.com/a-day-in-the-life-of-a-po-day-one/) |  PO | Story-teller and serving leader | [git](https://github.com/Cloudoki/scrum-team-toolbelt/tree/master/roles/product-owner.md)
 Tribe Scrum Master | TSM | In enterprise tribes, the liaison between product teams | [git](https://github.com/Cloudoki/scrum-team-toolbelt/tree/master/roles/tribe-scrum-master.md)
 Sponsor | | Management point-of-contact and budget overlord | [git](https://github.com/Cloudoki/scrum-team-toolbelt/tree/master/roles/sponsor.md)
 
