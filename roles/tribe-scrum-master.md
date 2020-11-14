@@ -3,6 +3,8 @@
 
 In enterprise tribes, the liaison between product teams.
 
+> Tribe Scrum Master. Only exists in enterprise environments. Also "Chief of Staff" for your Tribe Lead. Good friend if you can, spar with the TSM if you have to - before you bring it to the Tribe Lead.
+
 ## Ceremonies
 
 Ceremonies | frequency | entry

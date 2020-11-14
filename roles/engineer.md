@@ -3,6 +3,12 @@
 
 The tech team turning user stories into product features.
 
+> If you are lucky, a well balanced group of juniors to seniors, each playing their vital part in actually getting things done.
+
+> DevOps Engineer. Unfairly depicted as dungeon creatures -they live in the cloud these days- your DevOps is most likely one of the most professional project stakeholders you'll meet.
+
+> Tech lead. The most communicative of your senior engineers. Has to be willing to sacrifice a part of his time to project and people management next to the Scrum Master.
+
 ## Ceremonies
 
 Ceremonies | frequency | entry

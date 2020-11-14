@@ -3,6 +3,8 @@
 
 Tech lead of the product, usually senior engineer.
 
+> A creature who used to be tech lead, until he got a raise. Feel free to make jokes about that history. Important ally.
+
 ## Ceremonies
 
 Ceremonies | frequency | entry

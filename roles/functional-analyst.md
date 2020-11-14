@@ -2,6 +2,8 @@
 
 Maintaining the flow and service dependencies of the product.
 
+> Former engineer or designer with a weak spot for insights. In case of enterprise structures, delegate trust and responsibilities on intra-company communications and meetings.
+
 ## Ceremonies
 
 Ceremonies | frequency | entry

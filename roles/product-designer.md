@@ -3,6 +3,8 @@
 
 Measuring the user needs and translating them into good experiences ("UX").
 
+> Simplification of the various creative profiles, from product and graphic designers to UX specialists. Great bunch. Their ultimate weapon is the real-life user report.
+
 ## Ceremonies
 
 Ceremonies | frequency | entry

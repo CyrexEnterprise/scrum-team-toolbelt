@@ -3,6 +3,8 @@
 
 Story-teller and serving leader.
 
+> Sometimes feels as master of ceremony.
+
 ## Ceremonies
 
 Ceremonies | frequency | entry

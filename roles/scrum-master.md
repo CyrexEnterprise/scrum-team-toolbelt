@@ -1,6 +1,10 @@
 # Scrum Master
 `abbreviation: SM`
 
+Manager of the scrum, focussed on the sprint.
+
+> The whip of your team. The Scrum Master is not easily fooled and understands the emotional fluctuations of your team. Many PO's have a scrum mastering history, so you probably understand this position well.
+
 # Ceremonies
 
 Ceremonies | frequency | entry

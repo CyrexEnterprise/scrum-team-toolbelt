@@ -2,6 +2,8 @@
 
 Specialised engineer managing the continuous release pipeline ("CI/CD")
 
+> A special kind of architect, typically with DevOps background. This profile helps tempering your natural urge to hastily release exciting features, just as he/she is your ally in moderating hot-fixes requested by business.
+
 ## Ceremonies
 
 Ceremonies | frequency | entry

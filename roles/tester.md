@@ -3,6 +3,10 @@
 
 Specialist engineer guarding acceptable product quality.
 
+> The tester gets empowered most by a wintered PO. By automated end-to-end test journeys, CC Monitoring, spotlighting during sprint reviews and giving them a seat at the CI/CD cycle approval board.
+
+> Support. The product support representative yields your cryptonite, handle with care. Great allies if you need to highlight a real life feature concept to the sponsor. Find a balance in your technical team for assisting the support staff. A cycling support maintenance curfew per sprint works great.
+
 ## Ceremonies
 
 Ceremonies | frequency | entry

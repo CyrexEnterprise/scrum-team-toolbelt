@@ -3,6 +3,8 @@
 
 Writer of the user stories and feature acceptance criteria.
 
+> The author of the user stories and journeys. Thus also the key unlocking your product vision to everybody else. Of epic importance.
+
 # Ceremonies
 
 Overlaps UX and Analyst meetings involvement

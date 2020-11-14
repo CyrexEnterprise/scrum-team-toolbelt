@@ -2,6 +2,8 @@
 
 Management point-of-contact and budget overlord.
 
+> A.k.a. Epic owner. The internal customer with half-god status (he requests the budgets). Find the strenghts of your sponsor, in order for the sponsors to enable your product vision with proper impact.
+
 # Ceremonies
 
 Ceremonies | frequency | entry
