@@ -110,9 +110,11 @@ Sprint refinement | every sprint start | SM, Analyst, Tech | [git](https://githu
 _The ceremonies are broken down in the contributing articles._
 
 # What's next?
-Indifferent if you are about to join a scrum team or learning about the general framework, we'd advise you to select a "persona" (role) next. By looking at the interactions from your persona, you'll start to understand who you will be interacting with on a day-to-day basis and which tools are most impactful on your professional life.
+Indifferent if you are about to join a scrum team or learning about the general framework, we'd advise you to select a "persona" (role) next. By looking at the interactions from the point of view of your persona, you'll start to understand who you will be interacting with on a day-to-day basis and which tools are most impactful on your professional life.
 
-If you end a persona "[happy flow](https://www.the-reference.com/en/blog/frederiktaevernier/2019/do-you-know-your-happy-flow)" through a scrum's sprint and come to the conclusion that your time has come to make career changes, consider [applying for a great job at Cloudoki](https://savvy.bamboohr.com/jobs/).
+> [A day in the life of a PO, day one](/a-day-in-the-life-of-a-po-day-one)
+
+If you end a persona's "[happy flow](https://www.the-reference.com/en/blog/frederiktaevernier/2019/do-you-know-your-happy-flow)" through a scrum sprint and come to the conclusion that your time has come to make career changes, consider [applying for a great job at Cloudoki](https://savvy.bamboohr.com/jobs/)!
 
 <!--
 ## Some rules of thumb

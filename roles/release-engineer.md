@@ -1,4 +1,5 @@
 # Release engineer
+`abbreviation: Release`
 
 Specialised engineer managing the continuous release pipeline ("CI/CD")
 

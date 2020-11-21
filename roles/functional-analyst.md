@@ -1,4 +1,5 @@
 # Functional Analyst
+`abbreviation: Analyst`
 
 Maintaining the flow and service dependencies of the product.
 
